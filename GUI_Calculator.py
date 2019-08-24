@@ -58,9 +58,3 @@ Clear=Button(root,text="C",fg="brown",bg="light blue",command=clear)
 Clear.grid(row=4,column=0)
 
 root.mainloop()
-
-
-
-
-
-
